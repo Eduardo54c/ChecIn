@@ -47,7 +47,7 @@ public class Home extends javax.swing.JFrame {
         jLabel46.setVisible(false);
         jLabel47.setVisible(false);
         jLabel57.setVisible(false);
-
+//hola hshshshshs 
         //---------------------------------------
         DefaultTableCellRenderer a = new DefaultTableCellRenderer();
 
